@@ -1,4 +1,4 @@
-### Public code and data for the paper 
+### Code and data for the paper:
 
 https://www.biorxiv.org/content/10.1101/2020.03.01.971630v1.abstract
 
