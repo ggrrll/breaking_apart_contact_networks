@@ -1,0 +1,1 @@
+This folder contains plots and data from simulated segretion & vaccination (fig 3 and 4 of the paper)
