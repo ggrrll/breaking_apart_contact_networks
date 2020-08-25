@@ -1,4 +1,4 @@
-Plots and data realated to assessment of effect of segregation & vaccination on network – abbreviations for networks metrics:
+Plots and data realated to assessment of effect of W-S rewiring  & vaccination on network – abbreviations for networks metrics:
 
  (before vaccination)
 
