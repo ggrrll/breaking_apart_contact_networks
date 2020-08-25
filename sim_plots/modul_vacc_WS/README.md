@@ -1,4 +1,4 @@
-Plots and data realated to assessment of effect of W-S rewiring  & vaccination on network – abbreviations for networks metrics:
+Plots (fig 3a of paper) and data realated to assessment of effect of W-S rewiring  & vaccination on network – abbreviations for networks metrics:
 
  (before vaccination)
 
