@@ -19,7 +19,7 @@ Given that 'social-status' variables *s*, *s1*, *s2* and *snew*, *node_1* decide
 
 ![pict_segre_algo](https://github.com/ggrrll/breaking_apart_contact_networks/blob/master/pict_segre_algo/pict_segre_algo.pdf) 
 
-[I tryined many possible fixes but didn't manage to show the figure nicely on github – feel free to open a PR/issue – thanks 🙏]
+[I tryied many possible fixes but github doesn't seem to render the figure nicely...  – feel free to open a PR/issue – thanks 🙏]
 
 ### Please cite as:
 
