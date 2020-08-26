@@ -16,8 +16,11 @@ You can find here below a cartoon representing the **segregation algorithm**:
 Given that 'social-status' variables *s*, *s1*, *s2* and *snew*, *node_1* decides that s/he is too 'far' from her/his neighbour *node_2*. S/he willing to rewire his edge, and picks at random *node_new*, which is now 'close enough' (|s1 - s_new | < $\tau$), so s/he willing to stay.
 
 
-![](./pict_segre_algo/pict_segre_algo.pdf) 
- 
+
+![pict_segre_algo](https://github.com/ggrrll/breaking_apart_contact_networks/blob/master/pict_segre_algo/pict_segre_algo.pdf) 
+
+[I tryined many possible fixes but didn't manage to show the figure nicely on github – feel free to open a PR/issue – thanks 🙏]
+
 ### Please cite as:
 
 
