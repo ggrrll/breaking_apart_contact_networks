@@ -13,7 +13,7 @@ https://www.biorxiv.org/content/10.1101/2020.03.01.971630v1.abstract
  
 You can find here below a cartoon representing the **segregation algorithm**:
 
-Given that 'social-status' variables *s*, *s1*, *s2* and *snew*, *node_1* decides that s/he is too 'far' from her/his neighbour *node_2*. S/he willing to rewire his edge, and picks at random *node_new*, which is now 'close enough' (|s1 - s_new | < $\tau$), so s/he willing to stay.
+Given that 'social-status' variables *s*, *s1*, *s2* and *snew*, *node_1* decides that s/he is too 'far' from her/his neighbour *node_2* ![](https://latex.codecogs.com/gif.latex?\(|s_1&space;-&space;s_2&space;|&space;>&space;\tau\)) . S/he willing to rewire his edge, and picks at random *node_new*, which is now 'close enough' ![](https://latex.codecogs.com/gif.latex?\(|s_1&space;-&space;s_{new}&space;|&space;<&space;\tau\)), so s/he willing to stay.
 
 
 
